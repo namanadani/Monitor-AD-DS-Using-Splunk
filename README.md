@@ -3,7 +3,7 @@
 </div>
 
 # Project Overview
-This project demonstrates the setup of a virtualized environment with Active Directory on a Windows Server, log collection using Splunk, and the simulation of a Man-In-The-Middle (MITM) attack to analyze security events. It highlights network configuration, user authentication, and log monitoring, showcasing practical skills in cybersecurity operations and incident response.
+This project demonstrates the setup of a virtualized environment with Active Directory on a Windows Server, log collection using Splunk, and the simulation of a brute-force attack to analyze security events. It highlights network configuration, user authentication, and log monitoring, showcasing practical skills in cybersecurity operations and incident response.
 # Pre-requisites 
 - Hypervisor( virtual box, vmware)
 - Windows 10 (Target machine
