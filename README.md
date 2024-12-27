@@ -110,4 +110,33 @@ For this project, we are using a custom password list in crowbar for connecting 
   <img src="https://github.com/user-attachments/assets/eddd29c2-e876-4941-bd90-cf5ec356d4b7">
 </div>
 
+Once, the attack has been successfully executed, and as we know that the attack was done on "jennyshah"'s account. We can further write the name in the search bar and find it.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3a2171ef-ce3e-45b9-9f7f-26fc66f45531">
+</div>
 
+We can further see some event codes and event types flagging up. Further expanding them by using them in our filter can help us to examine the attack's traverse. We can see there are particularly two event code flagging up which can help us to do our research on deciding the type of attack.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1356297a-8082-4fbb-8314-5c2b03404487">
+</div>
+
+Some information regarding event code: 4625, simple google search can help for our research.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/57693258-fbe7-421a-9d90-a222eedadde1">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0ab59c52-4914-4687-82f6-e9fbb1f6aaa0">
+</div>
+
+Failed login attempts indicating brute-force attack signs.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/51972b40-090a-416a-add6-173f42ab4633">
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2c599fbc-6597-4262-860a-18d7a72bf3c8">
+</div>
+A successful login attempt made by a machine namely: kali linux along with its ip address:192.168.10.250 
